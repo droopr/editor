@@ -5,6 +5,10 @@ html,body{
       /*font-family: 'Indie Flower', cursive;*/
 				}
 
+#canvas{
+font-family: 'Montserrat', sans-serif;
+}
+
 .container{
 				padding:15px;
 				}
